@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Amatic+SC&family=Indie+Flower&family=Kiwi+Maru:wght@300&family=Play&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+background: rgb(116, 12, 29); 
+}
+
+
+body{
+	width: 815px;
+	height: 2530px;
+	margin: auto;
+	background-color: rgb(240, 12, 42);
+	padding: 5px;
+	font-family:  Arial;
+}
+
+header{
+
+	width: 815px;
+	height:100px;
+	background-color: rgb(82, 82, 82);
+	margin-top: 5px;
+	
+}
+
+section#logo{
+	width:200px;
+	height: 100px;
+	float:left;
+	background-color: rgb(255, 255, 255);
+
+}
+
+
+
+section#banner{
+	width: 615px;
+	height: 100px;
+	float:left ;
+	background-color: #ffffff;
+	}
+
+nav{
+	width: 815px;
+	height:60px;
+	background-color: rgb(231, 217, 16);
+	margin-top: 5px;
+	
+}
+
+
+
+
+
+article{
+
+	width: 600px;
+	height:2200px;
+	float:left;
+	background-color: #ffffff;
+	margin-top: 5px;
+	padding: 5px;
+
+}
+
+aside{
+
+
+	width: 205px;
+	height:2210px;
+	float: left;
+	background-color: #f3fd99;
+	margin-top: 5px;
+}
+
+
+footer{
+
+
+	width: 815px;
+	height:140px;
+	float:left;
+	margin-top: 5px;
+	background-color: #fff;
+	font-family: 'Kiwi Maru', serif;
+
+
+}
+
+
+
+
+
+h1{
+
+	padding-top: 1em;
+	font-family: verdana;
+	text-align: center;
+	font-family: 'Teko', sans-serif;
+	font-size: 2em;
+	font-weight: normal;
+
+}
+
+
+  .menu{
+
+	list-style: none;
+	padding: 0px;
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+	background-color: #696969;
+	font-family: 'Play', sans-serif;
+
+
+
+
+}
+
+
+.menu li a{
+	text-decoration: none;
+	color:white;
+	padding: 20px;
+	display: block;
+	
+
+
+}
+
+.menu li{
+	display: inline-block;
+	text-align: left;
+	
+
+
+
+
+}
+
+
+
+.menu li a:hover{
+	background-color: #f05670
+}
+
+
+
+
+	#stem{
+		padding-top: 6em;
+		padding: 2em;
+		font-size: .9em;
+		font-family: 'Kiwi Maru', serif;
+	}
+
+
+#stem li a{
+
+	text-decoration: none;
+}
+
+
+
+h2{
+text-align: center;
+color: #000;
+font-family: 'Acme', sans-serif;
+}
+
+p{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, cursive;
+    text-align: justify;
+    padding: 50px;
+}
+
+img
+{
+display: block;
+margin:auto;
+
+
+}
+
+h4{
+	text-align: center;
+	font-weight: bold;
+	padding: 1em;
+}
+
+
+.footerredes{
+	text-align: center;
+	list-style: none;
+	padding-bottom: 20px;
+		
+
+}
+
+
+.footerredes li {
+	display:inline-block;
+
+}
+
+.footerredes li a{
+	padding: 20px;
+	display: block;
+}
+
+
+
+
+
+
